@@ -7,3 +7,4 @@
     <li>Face Detection Using OpenCv</li>
 </ul>
 
+Link : [drive link to dataset for build the model](https://drive.google.com/drive/folders/1dfheXRkpxSOn51OUlf-Qw7VKsXggfIjk?usp=sharing)
